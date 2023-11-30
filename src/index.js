@@ -13,6 +13,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
-
-// https://www.youtube.com/watch?v=jx5hdo50a2M&ab_channel=JavaScriptMastery
-// https://github1s.com/adrianhajdin/project_syncfusion_dashboard
